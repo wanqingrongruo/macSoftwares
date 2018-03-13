@@ -5,8 +5,8 @@
 
 ##IDE: 
 * xcode
-* subLime
-* pyCharam
+* sublime
+* pyCharm
 
 ## 工具
 * sourcetree
@@ -44,5 +44,8 @@
 * 爱奇艺
 * 百度云
 * spark
+
+## 推荐
+[喵神-个人日常工作中所使用的一些工具](https://xiaozhuanlan.com/topic/7021963485)
 
 
