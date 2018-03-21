@@ -26,7 +26,7 @@
 * dash
 * Rested
 * python3.5
-* Jsonexport
+* JSONExport
 * aria2GUI
 * postman
 * charles
